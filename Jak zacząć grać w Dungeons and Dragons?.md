@@ -16,3 +16,4 @@ Ekipa podcasterów z [Podsluchane.pl / Sesje na podsłuchu](https://www.podsluch
 	2. Anglojęzyczne z [TRPG Resources | Dungeons & Dragons](https://dnd.wizards.com/products/tabletop-games/trpg-resources/trpg-resources) - są tu zarówno puste szablony, jak i pregenerowane archetypy, żeby nie trudzić się budowaniem postaci od zera.
 	3. Dla zupełnie początkujących pod adresem [Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond](https://www.dndbeyond.com/characters/builder#/) znajduje się anglojęzyczny kreator postaci od A do Z.
 5. Opcjonalnie - dla Androida i iOS istnieje aplikacja D&D Beyond, w której można mieć zasady podstawowe na podorędziu.
+6. Opcjonalnie - wprowadzenie i materiały polskiego Wydawnictwa Rebel https://www.rebel.pl/dnd/
