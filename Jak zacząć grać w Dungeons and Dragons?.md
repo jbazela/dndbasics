@@ -1,6 +1,6 @@
 # Jak zacząć grać w Dungeons and Dragons?
 ## Wstęp
-Ważne, żebyśmy się dobrze bawili - i co równie ważne, nie wydali majątku, gdyż wszystko w tym poradniku jest udostępnione od twórców za darmo. 
+Ważne, żebyśmy się dobrze bawili - i co równie ważne, nie wydali majątku, gdyż wszystko w tym poradniku jest udostępnione od twórców za darmo. Ostatecznie - wygrywamy wtedy, gdy spędziliśmy miło czas i opowiedzieliśmy fajną historię.
 
 ## Co obejrzeć obowiązkowo na start?
 Ekipa podcasterów z [Podsluchane.pl / Sesje na podsłuchu](https://www.podsluchane.pl/napodsluchu/) przygotowała wprowadzenie po polsku:
@@ -17,3 +17,7 @@ Ekipa podcasterów z [Podsluchane.pl / Sesje na podsłuchu](https://www.podsluch
 	3. Dla zupełnie początkujących pod adresem [Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond](https://www.dndbeyond.com/characters/builder#/) znajduje się anglojęzyczny kreator postaci od A do Z.
 5. Opcjonalnie - dla Androida i iOS istnieje aplikacja D&D Beyond, w której można mieć zasady podstawowe na podorędziu.
 6. Opcjonalnie - wprowadzenie i materiały polskiego Wydawnictwa Rebel https://www.rebel.pl/dnd/
+
+## Do obejrzenia dodatkowo na kanale "To ja go tnę!"
+1. Krótkie filmiki o mechanice gry zrobione przez polskich fanów https://www.youtube.com/playlist?list=PLXQV7yBcVcXrMPrkfz5HmjE0I6cbvHsqz
+2. Nagrane sesje dla inspiracji i zrozumiena jak rozgrywka wygląda w praktyce  https://www.youtube.com/channel/UCTZElUg9RC3dMAkvUvi3rRg/playlists?view=50&sort=dd&shelf_id=3
