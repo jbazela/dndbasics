@@ -1,7 +1,7 @@
 # Jak zacząć grać w Dungeons and Dragons?
 ## Wstęp
-Gry Role Play to spotkanie przyjaciół, opowiadających sobie epickie historie pełne bohaterów, potworów, magii i miecza. Żeby ustrukturyzować taką opowieść, istnieją różne mechaniki. Opisany w tym dokumencie system to 5 edycja znanego systemu Dungeons and Dragons. Nie jest ważne, żebyśmy znali te zasady na pamięć. Ważne, żebyśmy się dobrze bawili i czasem wsparli tą mechaniką - i co równie ważne, nie wydali majątku, gdyż wszystko w tym poradniku jest udostępnione od twórców za darmo. 
-Pamiętajmy - wygrywamy wtedy, gdy spędziliśmy miło czas i opowiedzieliśmy fajną historię.
+Gry Role Play to spotkanie przyjaciół, gdzie opowiadamy i odgrywamy epickie historie pełne herosów, potworów, magii i miecza - z nami w roli głównej! Żeby ustrukturyzować taką opowieść, istnieją różne mechaniki. Przybliżona w tym dokumencie mechanika to 5 edycja znanego systemu Dungeons and Dragons. Nie jest ważne, żebyśmy znali te zasady na pamięć. Ważne, żebyśmy się dobrze bawili i czasem wsparli tą mechaniką - i co równie ważne, nie wydali majątku, gdyż wszystko w tym poradniku jest udostępnione od twórców za darmo. 
+Pamiętajmy - wygrywamy wtedy, gdy spędziliśmy miło czas i odegraliśmy wciągającą historię.
 
 ## Co obejrzeć obowiązkowo na start?
 Ekipa podcasterów z [Podsluchane.pl / Sesje na podsłuchu](https://www.podsluchane.pl/napodsluchu/) przygotowała wprowadzenie po polsku:
