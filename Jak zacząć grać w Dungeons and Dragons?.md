@@ -19,8 +19,9 @@ Ekipa podcasterów z [Podsluchane.pl / Sesje na podsłuchu](https://www.podsluch
 
 ## Materiały dodatkowe 
 1. Te same treści co w PDF, ale rozszerzone o więcej ras i klas, są też dostępne na stronie [Start Your D&D Adventure! - Essentials - D&D Beyond](https://www.dndbeyond.com/essentials). Pozycja opcjonalna.
-2. Dla Androida i iOS istnieje też aplikacja D&D Beyond, w której można mieć zasady podstawowe na podorędziu.
+2. Dla Androida i iOS istnieje też darmowa aplikacja D&D Beyond, w której można mieć zasady podstawowe na podorędziu.
 2. Wprowadzenie i materiały polskiego [Wydawnictwa Rebel](https://www.rebel.pl/dnd/).
-3. Filmy na kanale "To ja go tnę!"
+3. W czasach COVID-19 wydawca gry udostępnił szereg anglojęzycznych materiałów (zasady, scenariusze), [na specjalnej stronie](https://dnd.wizards.com/remote/freematerial) 
+4. Filmy na kanale "To ja go tnę!"
 	1. Krótkie [filmiki o mechanice gry](https://www.youtube.com/playlist?list=PLXQV7yBcVcXrMPrkfz5HmjE0I6cbvHsqz), zrobione przez polskich fanów. 
 	2. [Nagrane sesje](https://www.youtube.com/channel/UCTZElUg9RC3dMAkvUvi3rRg/playlists?view=50&sort=dd&shelf_id=3) dla inspiracji i zrozumienia, jak rozgrywka wygląda w praktyce.  
