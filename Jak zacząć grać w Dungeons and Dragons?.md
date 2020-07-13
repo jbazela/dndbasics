@@ -15,12 +15,11 @@ Ekipa podcasterów z [Podsluchane.pl / Sesje na podsłuchu](https://www.podsluch
 	1. Pusty szablon karta-postaci [do druku po polsku](https://www.rebel.pl/dnd/download/) albo [karta interaktywna](https://www.rebel.pl/dnd/download/karta-postaci-interaktywna) do uzupełnienia cyfrowo, bez potrzeby druku. Wygodna edycja w programach typu Adobe Reader, Foxit Reader itp.
 	2. Anglojęzyczne karty postaci z [TRPG Resources | Dungeons & Dragons](https://dnd.wizards.com/products/tabletop-games/trpg-resources/trpg-resources) - są tu zarówno puste szablony, jak i pregenerowane archetypy, żeby nie trudzić się budowaniem postaci od zera.
 	3. Dla zupełnie początkujących pod adresem [Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond](https://www.dndbeyond.com/characters/builder#/) znajduje się anglojęzyczny kreator postaci krok po kroku.
-	4. Na D&D Beyond znajduje się również [darmowa aplikacja dla Androida i iOS](https://www.dndbeyond.com/player-app), która pozwala mieć na swoim telefonie kartę postaci.
 
 
 ## Materiały dodatkowe 
 1. Te same treści co w PDF, ale rozszerzone o więcej ras i klas, są też dostępne na stronie [Start Your D&D Adventure! - Essentials - D&D Beyond](https://www.dndbeyond.com/essentials). Pozycja opcjonalna.
-2. Dla Androida i iOS istnieje też darmowa aplikacja D&D Beyond, w której można mieć zasady podstawowe na podorędziu.
+2. Dla Androida i iOS istnieje darmowa aplikacja D&D Beyond, w której można mieć zasady podstawowe na podorędziu. Jest również [darmowa aplikacja dla Androida i iOS](https://www.dndbeyond.com/player-app), Player Mobile App, która pozwala mieć na swoim telefonie kartę postaci.
 2. Wprowadzenie i materiały polskiego [Wydawnictwa Rebel](https://www.rebel.pl/dnd/).
 3. W czasach COVID-19 wydawca gry udostępnił szereg anglojęzycznych materiałów (zasady, scenariusze), [na specjalnej stronie](https://dnd.wizards.com/remote/freematerial) 
 4. Filmy na kanale "To ja go tnę!"
